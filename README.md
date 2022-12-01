@@ -3,3 +3,5 @@
 - :books: I self-teach front end develpment
 - 🌱 I currently work on HTML, CSS and JavaScript
 - 💬 Ask me about anything!
+
+<img src="https://www.codewars.com/users/S.%20Guerra/badges/large">
