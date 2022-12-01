@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :books: I self-teach front end develpment
+- :books: I self-teach front end development
 - 🌱 I currently work on HTML, CSS and JavaScript
 - 💬 Ask me about anything!
 
