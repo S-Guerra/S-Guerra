@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :books: I self-teach front end development
-- 🌱 I currently work on HTML, CSS and JavaScript
+- 🌱 I currently work on JavaScript and React mainly
 - 🇧🇪 I am based in Belgium
 - 💬 Ask me about anything!
 
