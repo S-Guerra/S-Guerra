@@ -8,4 +8,4 @@
 ### My Codewars level:
 <a href="https://www.codewars.com/users/S.%20Guerra"><img src="https://www.codewars.com/users/S.%20Guerra/badges/large" alt="Codewars level"></a>
 
-Use my Codewars referral: www.codewars.com/r/zPgbcw 🥋
+Use my <a href="www.codewars.com/r/zPgbcw">Codewars referral</a> 🥋
